@@ -20,8 +20,13 @@ export default class About extends Component {
           <div className="centered">
             <div className="name_title">Your Name</div>
             <div className="brief_description">
-              Tell us about yourself in a few sentences. Tell us your interests
-              and say a fun fact about yourself.
+            <p>Hi there, my name is Anh Thu Pham. I'm an undergraduate software engineering major from San Jose State University. I am also working on a Chinese minor as well.</p>
+
+            <p>My interests are in cybersecurity, programming, and using my creativity to build cool applications.</p> 
+
+            <p>Outside of coursework, my hobbies include listening to K-pop, gaming, and learning new foreign languages.</p>
+
+            <p>I can speak Vietnamese, English, and an intermediate level of Mandarin.</p>  
             </div>
           </div>
         </div>
